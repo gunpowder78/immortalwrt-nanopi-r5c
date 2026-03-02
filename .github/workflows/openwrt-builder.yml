@@ -10,8 +10,6 @@
 # See /LICENSE for more information.
 #
 
-name: Immortal OpenWrt Builder
-
 name: OpenWrt Builder
 
 on:
